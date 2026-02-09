@@ -1,0 +1,2 @@
+# Requires: future-loop
+# (Not available on PyPI)
